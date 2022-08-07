@@ -1,7 +1,7 @@
 # Notepad
 This is learning  Made Java Swing Application.
 
-### - My Profile
+### - Notepad
 * Java 1.8 Jdk
 * Java Swing
 
